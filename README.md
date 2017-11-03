@@ -115,9 +115,9 @@ Which help us to automate
 {
 	"git": true,
 	"dbHost": "localhost",
-	"dbName": "yeopress",
-	"dbUser": "yeopress",
-	"dbPass": "yeopress"
+	"dbName": "db_demo",
+	"dbUser": "user_demo",
+	"dbPass": "pass_demo"
 }
 ```
 
